@@ -1,0 +1,5 @@
+GSWebServicesSSO=http\://localhost\:8080/GSWebServicesSSO/services/GSSeguridadWS?wsdl
+
+NombreSistema=Portada
+
+CASLogout=http://localhost:8080/cas/logout
