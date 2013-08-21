@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/40/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto
+END
+Opcion.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/skulldah/!svn/ver/9/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/Opcion.class
+END
+TipoUsuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/skulldah/!svn/ver/25/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/TipoUsuario.class
+END
+Permisos.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/skulldah/!svn/ver/40/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/Permisos.class
+END
+Usuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/skulldah/!svn/ver/25/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/Usuario.class
+END
+BitacoraUsuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/BitacoraUsuario.class
+END
+MenuUsuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/skulldah/!svn/ver/9/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/MenuUsuario.class
+END
+Menu.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/skulldah/!svn/ver/40/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/Menu.class
+END
+Sistema.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/skulldah/!svn/ver/9/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/dto/Sistema.class
+END

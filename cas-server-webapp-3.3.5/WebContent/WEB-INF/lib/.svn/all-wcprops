@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib
+END
+commons-io-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-io-LICENSE.txt
+END
+jaxb-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/jaxb-api-2.1.jar
+END
+woden-impl-dom-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/woden-impl-dom-LICENSE.txt
+END
+spring-core-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-core-2.5.6.SEC01.jar
+END
+axis2-xmlbeans-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-xmlbeans-1.6.2.jar
+END
+hibernate-commons-annotations-3.0.0.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/hibernate-commons-annotations-3.0.0.ga.jar
+END
+axis2-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-LICENSE.txt
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-codec-1.3.jar
+END
+spring-ldap-core-tiger-1.3.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-ldap-core-tiger-1.3.0.RELEASE.jar
+END
+commons-lang-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-lang-2.2.jar
+END
+spring-security-cas-client-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-security-cas-client-2.0.4.jar
+END
+woden-impl-dom-1.0M9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/woden-impl-dom-1.0M9.jar
+END
+mail-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/mail-LICENSE.txt
+END
+axis2-jibx-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-jibx-1.6.2.jar
+END
+jcaptcha-all-1.0-RC6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/jcaptcha-all-1.0-RC6.jar
+END
+axiom-dom-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axiom-dom-1.2.13.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/antlr-2.7.6.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+commons-cli-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-cli-LICENSE.txt
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/antlr-2.7.7.jar
+END
+axis2-ant-plugin-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-ant-plugin-1.6.2.jar
+END
+axiom-api-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axiom-api-LICENSE.txt
+END
+spring-context-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-context-2.5.6.SEC01.jar
+END
+standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/standard-1.1.2.jar
+END
+axis2-adb-codegen-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-adb-codegen-1.6.2.jar
+END
+cas-server-support-ldap-3.3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/cas-server-support-ldap-3.3.5.jar
+END
+spring-ldap-core-1.3.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-ldap-core-1.3.0.RELEASE.jar
+END
+spring-context-support-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-context-support-2.5.6.SEC01.jar
+END
+xmldsig-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/xmldsig-1.0.jar
+END
+commons-fileupload-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-fileupload-1.2.jar
+END
+axiom-impl-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axiom-impl-1.2.13.jar
+END
+stax-api-1.0-2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/stax-api-1.0-2.jar
+END
+spring-webflow-1.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-webflow-1.0.6.jar
+END
+aspectjweaver-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/aspectjweaver-1.5.3.jar
+END
+axis2-adb-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-adb-1.6.2.jar
+END
+axis2-clustering-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-clustering-1.6.2.jar
+END
+woden-api-1.0M9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/woden-api-1.0M9.jar
+END
+geronimo-stax-api_1.0_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/geronimo-stax-api_1.0_spec-1.0.1.jar
+END
+ejb3-persistence-1.0.1.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/ejb3-persistence-1.0.1.GA.jar
+END
+xmlbeans-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar
+END
+axis2-transport-http-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-transport-http-1.6.2.jar
+END
+spring-security-core-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-security-core-2.0.4.jar
+END
+spring-beans-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-beans-2.5.6.SEC01.jar
+END
+woden-impl-commons-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/woden-impl-commons-LICENSE.txt
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/activation-1.1.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/jdom-1.0.jar
+END
+jaxb-impl-2.1.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/jaxb-impl-2.1.9.jar
+END
+commons-httpclient-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-httpclient-LICENSE.txt
+END
+jta-1.0.1B.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/jta-1.0.1B.jar
+END
+wstx-asl-3.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/wstx-asl-3.2.9.jar
+END
+axis2-saaj-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-saaj-1.6.2.jar
+END
+hibernate-3.2.6.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/hibernate-3.2.6.ga.jar
+END
+opensaml-1.1b.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/opensaml-1.1b.jar
+END
+woden-impl-commons-1.0M9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/woden-impl-commons-1.0M9.jar
+END
+axiom-impl-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axiom-impl-LICENSE.txt
+END
+person-directory-api-1.5.0-RC5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/person-directory-api-1.5.0-RC5.jar
+END
+wstx-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/wstx-LICENSE.txt
+END
+xmlsec-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/xmlsec-1.4.3.jar
+END
+axiom-api-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axiom-api-1.2.13.jar
+END
+spring-web-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-web-2.5.6.SEC01.jar
+END
+axiom-dom-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axiom-dom-LICENSE.txt
+END
+axis2-jaxws-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-jaxws-1.6.2.jar
+END
+neethi-3.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/neethi-3.0.2.jar
+END
+inspektr-core-0.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/inspektr-core-0.7.0.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-io-1.4.jar
+END
+axis2-codegen-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-codegen-1.6.2.jar
+END
+cas-client-core-3.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/cas-client-core-3.1.3.jar
+END
+acegi-security-1.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/acegi-security-1.0.7.jar
+END
+axis2-spring-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-spring-1.6.2.jar
+END
+axis2-corba-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-corba-1.6.2.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-collections-3.2.jar
+END
+commons-codec-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-codec-LICENSE.txt
+END
+axis2-transport-local-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-transport-local-1.6.2.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/aopalliance-1.0.jar
+END
+mail-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/mail-1.4.jar
+END
+XmlSchema-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/XmlSchema-LICENSE.txt
+END
+spring-orm-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-orm-2.5.6.SEC01.jar
+END
+commons-logging-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-logging-LICENSE.txt
+END
+cas-server-core-3.3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/cas-server-core-3.3.5.jar
+END
+commons-cli-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-cli-1.2.jar
+END
+log4j-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/log4j-LICENSE.txt
+END
+axis2-jaxbri-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-jaxbri-1.6.2.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+woden-api-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/woden-api-LICENSE.txt
+END
+XmlSchema-1.4.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/XmlSchema-1.4.7.jar
+END
+commons-fileupload-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-fileupload-LICENSE.txt
+END
+asm-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/asm-1.5.3.jar
+END
+jstl-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/jstl-1.1.2.jar
+END
+axis2-fastinfoset-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-fastinfoset-1.6.2.jar
+END
+ehcache-1.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/ehcache-1.2.3.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/log4j-1.2.15.jar
+END
+spring-binding-1.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-binding-1.0.6.jar
+END
+spring-jdbc-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-jdbc-2.5.6.SEC01.jar
+END
+axis2-json-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-json-1.6.2.jar
+END
+xmlbeans-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/xmlbeans-LICENSE.txt
+END
+spring-aop-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-aop-2.5.6.SEC01.jar
+END
+axis2-metadata-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-metadata-1.6.2.jar
+END
+antlr-2-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/antlr-2-LICENSE.txt
+END
+axis2-soapmonitor-servlet-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-soapmonitor-servlet-1.6.2.jar
+END
+spring-tx-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-tx-2.5.6.SEC01.jar
+END
+person-directory-impl-1.5.0-RC5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/person-directory-impl-1.5.0-RC5.jar
+END
+cglib-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/cglib-2.1_3.jar
+END
+spring-webmvc-2.5.6.SEC01.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/spring-webmvc-2.5.6.SEC01.jar
+END
+activation-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/activation-LICENSE.txt
+END
+asm-attrs-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/asm-attrs-1.5.3.jar
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/commons-httpclient-3.1.jar
+END
+axis2-mtompolicy-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-mtompolicy-1.6.2.jar
+END
+wsdl4j-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/wsdl4j-LICENSE.txt
+END
+aspectjrt-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/aspectjrt-1.5.3.jar
+END
+axis2-java2wsdl-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-java2wsdl-1.6.2.jar
+END
+axis2-kernel-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/axis2-kernel-1.6.2.jar
+END
+quartz-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/quartz-1.5.2.jar
+END
+wsdl4j-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/wsdl4j-1.6.2.jar
+END
+ognl-2.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/ognl-2.6.9.jar
+END
+httpcore-4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/httpcore-4.0.jar
+END
+httpcore-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/httpcore-LICENSE.txt
+END
+neethi-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/neethi-LICENSE.txt
+END
+hibernate-annotations-3.3.1.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/hibernate-annotations-3.3.1.GA.jar
+END
+persistence-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/lib/persistence-api-1.0.jar
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun
+END
+ListaMensajes.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun/ListaMensajes.class
+END
+FactoryBO.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun/FactoryBO.class
+END
+SSOMailer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun/SSOMailer$1.class
+END
+SSOStringUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun/SSOStringUtils.class
+END
+SSOMailer.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun/SSOMailer.class
+END
+HTMLConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/comun/HTMLConverter.class
+END

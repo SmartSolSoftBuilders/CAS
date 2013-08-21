@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad
+END
+IModificaContrasena.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/IModificaContrasena.class
+END
+IRegistable.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/IRegistable.class
+END
+IObtenUsuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/IObtenUsuario.class
+END
+IObtenPermisos.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/IObtenPermisos.class
+END
+GSSeguridadWS.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/GSSeguridadWS.class
+END
+IValidaUsuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/IValidaUsuario.class
+END
+GSAutenticadorWS.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/seguridad/GSAutenticadorWS.class
+END

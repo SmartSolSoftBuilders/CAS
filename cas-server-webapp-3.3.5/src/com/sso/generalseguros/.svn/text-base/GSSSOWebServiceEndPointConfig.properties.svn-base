@@ -1,0 +1,3 @@
+GSWebServicesSSO=http\://localhost\:8080/GSWebServicesSSO/services/GSSeguridadWS?wsdl
+GSAutenticadorWS=http://localhost:8080/GSWebServicesSSO/services/GSAutenticadorWS
+                 

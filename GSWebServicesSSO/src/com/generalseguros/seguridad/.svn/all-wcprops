@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/skulldah/!svn/ver/53/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad
+END
+IValidaUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/IValidaUsuario.java
+END
+GSSeguridadWS.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/35/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/GSSeguridadWS.java
+END
+IObtenPermisos.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/16/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/IObtenPermisos.java
+END
+GSSeguridadWSStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/35/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/GSSeguridadWSStub.java
+END
+IObtenUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/IObtenUsuario.java
+END
+IRegistable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/skulldah/!svn/ver/8/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/IRegistable.java
+END
+IModificaContrasena.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/22/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/IModificaContrasena.java
+END
+GSAutenticadorWS.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/GSAutenticadorWS.java
+END

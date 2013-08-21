@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/skulldah/!svn/ver/49/trunk/GSWebServicesSSO/WebContent/WEB-INF/GSSeguridadWSService/com/generalseguros/seguridad
+END
+deploy.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/skulldah/!svn/ver/49/trunk/GSWebServicesSSO/WebContent/WEB-INF/GSSeguridadWSService/com/generalseguros/seguridad/deploy.wsdd
+END
+undeploy.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/skulldah/!svn/ver/9/trunk/GSWebServicesSSO/WebContent/WEB-INF/GSSeguridadWSService/com/generalseguros/seguridad/undeploy.wsdd
+END

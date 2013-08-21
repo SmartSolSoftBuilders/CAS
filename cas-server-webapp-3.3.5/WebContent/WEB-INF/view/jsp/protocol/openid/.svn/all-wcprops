@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/openid
+END
+user.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/openid/user.jsp
+END
+casOpenIdServiceSuccessView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/openid/casOpenIdServiceSuccessView.jsp
+END
+casOpenIdServiceFailureView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/openid/casOpenIdServiceFailureView.jsp
+END

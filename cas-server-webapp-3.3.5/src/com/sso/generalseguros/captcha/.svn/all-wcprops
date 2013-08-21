@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/skulldah/!svn/ver/32/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/captcha
+END
+JCaptchaServiceProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/captcha/JCaptchaServiceProxyImpl.java
+END
+CustomCentralAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/captcha/CustomCentralAuthenticationServiceImpl.java
+END
+CaptchaImageCreateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/skulldah/!svn/ver/32/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/captcha/CaptchaImageCreateController.java
+END
+CaptchaErrorCountAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/captcha/CaptchaErrorCountAction.java
+END
+CaptchaValidateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/captcha/CaptchaValidateAction.java
+END

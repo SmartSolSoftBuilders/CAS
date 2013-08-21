@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/db
+END
+InformixCommonDB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/db/InformixCommonDB.properties
+END
+CommonDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/db/CommonDB.class
+END
+Common.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/db/Common.properties
+END
+SQLServerCommonDB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/db/SQLServerCommonDB.properties
+END
+PropertyType.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSAutenticadorWS/com/generalseguros/db/PropertyType.class
+END

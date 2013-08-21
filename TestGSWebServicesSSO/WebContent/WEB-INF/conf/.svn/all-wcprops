@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/WebContent/WEB-INF/conf
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/WebContent/WEB-INF/conf/commons-logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/WebContent/WEB-INF/conf/log4j.properties
+END
+axis2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/WebContent/WEB-INF/conf/axis2.xml
+END
+axis2.policy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/WebContent/WEB-INF/conf/axis2.policy
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/skulldah/!svn/ver/31/trunk/cas-server-webapp-3.3.5/src/com/generalseguros/seguridad
+END
+GSSeguridadWSStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/skulldah/!svn/ver/31/trunk/cas-server-webapp-3.3.5/src/com/generalseguros/seguridad/GSSeguridadWSStub.java
+END
+GSSeguridadWSCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/skulldah/!svn/ver/31/trunk/cas-server-webapp-3.3.5/src/com/generalseguros/seguridad/GSSeguridadWSCallbackHandler.java
+END
+GSAutenticadorWSStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/skulldah/!svn/ver/31/trunk/cas-server-webapp-3.3.5/src/com/generalseguros/seguridad/GSAutenticadorWSStub.java
+END

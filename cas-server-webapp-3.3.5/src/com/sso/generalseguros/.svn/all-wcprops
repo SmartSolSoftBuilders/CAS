@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/skulldah/!svn/ver/32/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros
+END
+OlvidoPasswordServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/23/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/OlvidoPasswordServlet.java
+END
+GSSeguridadAuthenticationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/skulldah/!svn/ver/32/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/GSSeguridadAuthenticationHandler.java
+END
+GSSSOWebServiceEndPointConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/skulldah/!svn/ver/32/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/GSSSOWebServiceEndPointConfig.properties
+END
+GSTicketRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/skulldah/!svn/ver/24/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/GSTicketRegistry.java
+END
+OlvidoPasswordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/32/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/OlvidoPasswordHandler.java
+END
+GSServicesManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/24/trunk/cas-server-webapp-3.3.5/src/com/sso/generalseguros/GSServicesManagerImpl.java
+END

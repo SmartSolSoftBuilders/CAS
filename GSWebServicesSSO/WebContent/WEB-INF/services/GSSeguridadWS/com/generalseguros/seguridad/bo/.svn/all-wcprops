@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/skulldah/!svn/ver/40/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo
+END
+ObtenPermisosDBImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/skulldah/!svn/ver/40/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo/ObtenPermisosDBImpl.class
+END
+ValidaUsuarioDBImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo/ValidaUsuarioDBImpl.class
+END
+ValidaUsuarioSQLServerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/skulldah/!svn/ver/9/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo/ValidaUsuarioSQLServerImpl.class
+END
+ObtenPermisosSQLServerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/skulldah/!svn/ver/9/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo/ObtenPermisosSQLServerImpl.class
+END
+ModificaContrasenaImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/skulldah/!svn/ver/25/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo/ModificaContrasenaImpl.class
+END
+ObtenUsuarioDBImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS/com/generalseguros/seguridad/bo/ObtenUsuarioDBImpl.class
+END

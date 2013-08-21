@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/services
+END
+viewStatistics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/services/viewStatistics.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/services/logout.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/services/add.jsp
+END
+manage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/services/manage.jsp
+END

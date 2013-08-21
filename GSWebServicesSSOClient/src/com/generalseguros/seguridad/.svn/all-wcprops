@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/skulldah/!svn/ver/46/trunk/GSWebServicesSSOClient/src/com/generalseguros/seguridad
+END
+GSSeguridadWS.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/45/trunk/GSWebServicesSSOClient/src/com/generalseguros/seguridad/GSSeguridadWS.java
+END
+GSSeguridadWSPortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/skulldah/!svn/ver/45/trunk/GSWebServicesSSOClient/src/com/generalseguros/seguridad/GSSeguridadWSPortType.java
+END
+GSSeguridadWSSoap11BindingStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/skulldah/!svn/ver/45/trunk/GSWebServicesSSOClient/src/com/generalseguros/seguridad/GSSeguridadWSSoap11BindingStub.java
+END
+GSSeguridadWSLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/45/trunk/GSWebServicesSSOClient/src/com/generalseguros/seguridad/GSSeguridadWSLocator.java
+END
+GSSeguridadWSPortTypeProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/skulldah/!svn/ver/45/trunk/GSWebServicesSSOClient/src/com/generalseguros/seguridad/GSSeguridadWSPortTypeProxy.java
+END

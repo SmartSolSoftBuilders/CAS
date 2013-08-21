@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://seguridad.generalseguros.com" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://seguridad.generalseguros.com" xmlns:intf="http://seguridad.generalseguros.com" xmlns:tns1="http://dto.generalseguros.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://seguridad.generalseguros.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <import namespace="http://dto.generalseguros.com"/>
+   <element name="validaUsuario">
+    <complexType>
+     <sequence>
+      <element name="usuario" type="xsd:string"/>
+      <element name="contrasena" type="xsd:string"/>
+      <element name="sessionId" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="validaUsuarioResponse">
+    <complexType>
+     <sequence>
+      <element name="validaUsuarioReturn" type="tns1:Usuario"/>
+     </sequence>
+    </complexType>
+   </element>
+   <complexType name="ArrayOf_tns1_Menu">
+    <sequence>
+     <element maxOccurs="unbounded" minOccurs="0" name="item" type="tns1:Menu"/>
+    </sequence>
+   </complexType>
+   <complexType name="ArrayOf_tns1_Sistema">
+    <sequence>
+     <element maxOccurs="unbounded" minOccurs="0" name="item" type="tns1:Sistema"/>
+    </sequence>
+   </complexType>
+   <element name="validaUsuarioJSON">
+    <complexType>
+     <sequence>
+      <element name="usuario" type="xsd:string"/>
+      <element name="contrasena" type="xsd:string"/>
+      <element name="sessionId" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="validaUsuarioJSONResponse">
+    <complexType>
+     <sequence>
+      <element name="validaUsuarioJSONReturn" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+  <schema elementFormDefault="qualified" targetNamespace="http://dto.generalseguros.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <import namespace="http://seguridad.generalseguros.com"/>
+   <complexType name="Menu">
+    <sequence>
+     <element name="activo" nillable="true" type="xsd:boolean"/>
+     <element name="clave" nillable="true" type="xsd:string"/>
+     <element name="id" type="xsd:int"/>
+     <element name="menuPadreId" type="xsd:int"/>
+     <element name="menusHijos" nillable="true" type="impl:ArrayOf_tns1_Menu"/>
+     <element name="nombre" nillable="true" type="xsd:string"/>
+     <element name="sistemaId" type="xsd:int"/>
+     <element name="url" nillable="true" type="xsd:string"/>
+     <element name="urlImagen" nillable="true" type="xsd:string"/>
+    </sequence>
+   </complexType>
+   <complexType name="Sistema">
+    <sequence>
+     <element name="hashValue" nillable="true" type="xsd:string"/>
+     <element name="id" type="xsd:int"/>
+     <element name="menus" nillable="true" type="impl:ArrayOf_tns1_Menu"/>
+     <element name="nombre" nillable="true" type="xsd:string"/>
+     <element name="url" nillable="true" type="xsd:string"/>
+    </sequence>
+   </complexType>
+   <complexType name="TipoUsuario">
+    <sequence>
+     <element name="rolDescripcion" nillable="true" type="xsd:string"/>
+     <element name="sistemas" nillable="true" type="impl:ArrayOf_tns1_Sistema"/>
+    </sequence>
+   </complexType>
+   <complexType name="Usuario">
+    <sequence>
+     <element name="activo" type="xsd:boolean"/>
+     <element name="apellidoMaterno" nillable="true" type="xsd:string"/>
+     <element name="apellidoPaterno" nillable="true" type="xsd:string"/>
+     <element name="claveArea" nillable="true" type="xsd:string"/>
+     <element name="claveDepartamento" nillable="true" type="xsd:string"/>
+     <element name="contrasena" nillable="true" type="xsd:string"/>
+     <element name="correoElectronico" nillable="true" type="xsd:string"/>
+     <element name="fechaPassword" nillable="true" type="xsd:dateTime"/>
+     <element name="fechaRegistro" nillable="true" type="xsd:dateTime"/>
+     <element name="id" type="xsd:int"/>
+     <element name="mensaje" nillable="true" type="xsd:string"/>
+     <element name="noCliente" nillable="true" type="xsd:string"/>
+     <element name="nombrePersona" nillable="true" type="xsd:string"/>
+     <element name="nombreUsuario" nillable="true" type="xsd:string"/>
+     <element name="tipoUsuario" nillable="true" type="tns1:TipoUsuario"/>
+     <element name="usuarioRegistro" nillable="true" type="tns1:Usuario"/>
+    </sequence>
+   </complexType>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="validaUsuarioResponse">
+
+      <wsdl:part element="impl:validaUsuarioResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="validaUsuarioJSONResponse">
+
+      <wsdl:part element="impl:validaUsuarioJSONResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="validaUsuarioRequest">
+
+      <wsdl:part element="impl:validaUsuario" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="validaUsuarioJSONRequest">
+
+      <wsdl:part element="impl:validaUsuarioJSON" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="GSAutenticadorWS">
+
+      <wsdl:operation name="validaUsuario">
+
+         <wsdl:input message="impl:validaUsuarioRequest" name="validaUsuarioRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:validaUsuarioResponse" name="validaUsuarioResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="validaUsuarioJSON">
+
+         <wsdl:input message="impl:validaUsuarioJSONRequest" name="validaUsuarioJSONRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:validaUsuarioJSONResponse" name="validaUsuarioJSONResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="GSAutenticadorWSSoapBinding" type="impl:GSAutenticadorWS">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="validaUsuario">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="validaUsuarioRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="validaUsuarioResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="validaUsuarioJSON">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="validaUsuarioJSONRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="validaUsuarioJSONResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="GSAutenticadorWSService">
+
+      <wsdl:port binding="impl:GSAutenticadorWSSoapBinding" name="GSAutenticadorWS">
+
+         <wsdlsoap:address location="http://localhost:8080/GSWebServicesSSO/services/GSAutenticadorWS"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

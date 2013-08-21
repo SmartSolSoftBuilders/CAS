@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- Specify a JDBC datasource -->
+    <!-- SQL Server
+    <Resource name="jdbc/SSOGeneralSeguros" auth="Container"
+        type="javax.sql.DataSource" username="ingroovesapp" password="DEhu8624"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+        url="jdbc:sqlserver://localhost:1433;databaseName=SSO_GeneralSeguros"
+         maxActive="100" maxIdle="30" maxWait="10000" /> -->
+     <!-- Informix   --> 
+    <Resource name="jdbc/SSOGeneralSeguros" auth="Container"
+        type="javax.sql.DataSource" username="informix" password="DEhu8624"
+        driverClassName="com.informix.jdbc.IfxDriver"
+        url="jdbc:informix-sqli://192.168.239.129:60000/sso_generalseguros:INFORMIXSERVER=ol_rgonzalezdev1;DELIMIDENT=y;"
+         maxActive="100" maxIdle="30" maxWait="10000" /> 
+ 
+</Context>

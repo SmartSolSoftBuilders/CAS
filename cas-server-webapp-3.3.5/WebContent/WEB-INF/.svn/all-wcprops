@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/skulldah/!svn/ver/24/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF
+END
+deployerConfigContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/24/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/deployerConfigContext.xml
+END
+cas-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/cas-servlet.xml
+END
+login-webflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/login-webflow.xml
+END
+restlet-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/restlet-servlet.xml
+END
+cas.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/skulldah/!svn/ver/24/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/cas.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/skulldah/!svn/ver/23/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/web.xml
+END

@@ -1,0 +1,128 @@
+package com.generalseguros.seguridad.bo;
+
+import static com.generalseguros.db.CommonDB.tryToTrim;
+import static com.generalseguros.dto.Usuario.ACTIVO;
+import static com.generalseguros.dto.Usuario.AP_MATERNO;
+import static com.generalseguros.dto.Usuario.AP_PATERNO;
+import static com.generalseguros.dto.Usuario.CORREO_ELECTRONICO;
+import static com.generalseguros.dto.Usuario.CVE_AREA;
+import static com.generalseguros.dto.Usuario.CVE_DEPTO;
+import static com.generalseguros.dto.Usuario.FECHA_PASSWORD;
+import static com.generalseguros.dto.Usuario.FECHA_REGISTRO;
+import static com.generalseguros.dto.Usuario.ID;
+import static com.generalseguros.dto.Usuario.NOMBRE_PERSONA;
+import static com.generalseguros.dto.Usuario.NOMBRE_USUARIO;
+import static com.generalseguros.dto.Usuario.NO_CLIENTE;
+import static com.generalseguros.dto.Usuario.USUARIO_REGISTRO;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import com.generalseguros.comun.ListaMensajes;
+import com.generalseguros.comun.SSOStringUtils;
+import com.generalseguros.db.CommonDB;
+import com.generalseguros.dto.BitacoraUsuario;
+import com.generalseguros.dto.Usuario;
+import com.generalseguros.seguridad.IRegistable;
+import com.generalseguros.seguridad.IValidaUsuario;
+
+public class ValidaUsuarioDBImpl implements IValidaUsuario, IRegistable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 5007272534953674154L;
+
+	private Integer mesesCaducaPassword;
+	private Boolean mesesCaducaSoportado;
+	
+	public ValidaUsuarioDBImpl(String mesesCaducaPassword,
+			Boolean mesesCaducaSoportado) {
+		this.mesesCaducaPassword = new Integer(tryToTrim(mesesCaducaPassword));
+		this.mesesCaducaSoportado = mesesCaducaSoportado;
+	}
+
+	@Override
+	public Usuario execute(String nombreUsuario, String contrasena, String sessionId) {
+		
+		Usuario usuario = new Usuario();
+		CommonDB db = new CommonDB();
+		boolean logroEntrar = false;
+
+		String contrasenaMD5 = SSOStringUtils.getMD5String(contrasena);
+		
+		try {
+
+			Object[] params = null;
+			if (mesesCaducaSoportado) {
+				params = new Object[] { nombreUsuario, contrasenaMD5,
+						mesesCaducaPassword };
+			} else {
+				params = new Object[] { nombreUsuario, contrasenaMD5 };
+			}
+
+			ResultSet rs = db.executePreparedStatementQuery(
+					CommonDB.getPropertyValue(VALIDA_USUARIO_QUERY), params);
+			while (rs.next()) {
+				usuario.setContrasena(null); // La contraseña en claro no
+												// viajara por razones de
+												// seguridad
+				usuario.setId(rs.getInt(ID));
+				usuario.setNombreUsuario(tryToTrim(rs.getString(NOMBRE_USUARIO)));
+				usuario.setFechaPassword(rs.getDate(FECHA_PASSWORD));
+				usuario.setNombrePersona(tryToTrim(rs.getString(NOMBRE_PERSONA)));
+				usuario.setCorreoElectronico(tryToTrim(rs
+						.getString(CORREO_ELECTRONICO)));
+				usuario.setNoCliente(tryToTrim(rs.getString(NO_CLIENTE)));
+				usuario.setApellidoPaterno(tryToTrim(rs.getString(AP_PATERNO)));
+				usuario.setApellidoMaterno(tryToTrim(rs.getString(AP_MATERNO)));
+				usuario.setClaveArea(tryToTrim(rs.getString(CVE_AREA)));
+				usuario.setClaveDepartamento(tryToTrim(rs.getString(CVE_DEPTO)));
+				usuario.setFechaRegistro(rs.getDate(FECHA_REGISTRO));
+				usuario.setActivo(rs.getBoolean(ACTIVO));
+				usuario.setUsuarioRegistro(new Usuario(rs
+						.getInt(USUARIO_REGISTRO)));
+
+				logroEntrar = true;
+			}
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} finally {
+			db.closeResources();
+		}
+
+		if (logroEntrar) {
+			insertarBitacora(new BitacoraUsuario(usuario, sessionId));
+		} else {
+			usuario.setMensaje(ListaMensajes.ERROR_USUARIO_LOGIN);
+		}
+
+		return usuario;
+	}
+
+	@Override
+	public void insertarBitacora(BitacoraUsuario bitacora) {
+		CommonDB db = new CommonDB();
+
+		try {
+
+			// TODO RCGF temporal en lo que erick corre los scripts de actualizacion 18/Agosto/2012
+			
+			db.executePreparedStatementUpdate(
+					CommonDB.getPropertyValue(VALIDA_USUARIO_INSERT_SESSION),
+					new Object[] { bitacora.getSessionId(), bitacora.getUsuario().getNombreUsuario() });
+			
+			db.executePreparedStatementUpdate(
+					CommonDB.getPropertyValue(VALIDA_USUARIO_INSERT_BITACORA),
+					new Object[] { bitacora.getUsuario().getId() });
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} finally {
+			db.closeResources();
+		}
+
+	}
+
+}

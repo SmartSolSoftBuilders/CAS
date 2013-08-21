@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/2.0
+END
+casServiceValidationSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/2.0/casServiceValidationSuccess.jsp
+END
+casProxySuccessView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/2.0/casProxySuccessView.jsp
+END
+casServiceValidationFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/2.0/casServiceValidationFailure.jsp
+END
+casProxyFailureView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/protocol/2.0/casProxyFailureView.jsp
+END

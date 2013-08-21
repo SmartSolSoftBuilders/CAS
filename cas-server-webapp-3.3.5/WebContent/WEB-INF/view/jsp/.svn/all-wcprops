@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/skulldah/!svn/ver/23/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp
+END
+brokenContext.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/brokenContext.jsp
+END
+errors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/errors.jsp
+END

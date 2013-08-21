@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/skulldah/!svn/ver/33/trunk/cas-server-webapp-3.3.5
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/.classpath
+END

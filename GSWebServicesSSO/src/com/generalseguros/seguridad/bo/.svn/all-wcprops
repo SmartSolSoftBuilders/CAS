@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/skulldah/!svn/ver/53/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/bo
+END
+ModificaContrasenaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/skulldah/!svn/ver/22/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/bo/ModificaContrasenaImpl.java
+END
+ValidaUsuarioDBImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/bo/ValidaUsuarioDBImpl.java
+END
+ObtenPermisosDBImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/skulldah/!svn/ver/53/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/bo/ObtenPermisosDBImpl.java
+END
+ObtenUsuarioDBImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/skulldah/!svn/ver/31/trunk/GSWebServicesSSO/src/com/generalseguros/seguridad/bo/ObtenUsuarioDBImpl.java
+END

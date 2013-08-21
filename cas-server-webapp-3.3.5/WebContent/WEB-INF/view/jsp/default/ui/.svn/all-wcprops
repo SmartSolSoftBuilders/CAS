@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/skulldah/!svn/ver/23/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui
+END
+serviceErrorView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/serviceErrorView.jsp
+END
+casLoginView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/skulldah/!svn/ver/23/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/casLoginView.jsp
+END
+casBlockedView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/casBlockedView.jsp
+END
+casConfirmView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/casConfirmView.jsp
+END
+serviceErrorSsoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/serviceErrorSsoView.jsp
+END
+casGenericSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/casGenericSuccess.jsp
+END
+casLogoutView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/view/jsp/default/ui/casLogoutView.jsp
+END

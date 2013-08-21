@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/skulldah/!svn/ver/53/trunk/GSWebServicesSSO/src/com/generalseguros/db
+END
+InformixCommonDB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/53/trunk/GSWebServicesSSO/src/com/generalseguros/db/InformixCommonDB.properties
+END
+PropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/skulldah/!svn/ver/8/trunk/GSWebServicesSSO/src/com/generalseguros/db/PropertyType.java
+END
+HSQLDBCommonDB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/skulldah/!svn/ver/53/trunk/GSWebServicesSSO/src/com/generalseguros/db/HSQLDBCommonDB.properties
+END
+Common.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/skulldah/!svn/ver/52/trunk/GSWebServicesSSO/src/com/generalseguros/db/Common.properties
+END
+SQLServerCommonDB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/skulldah/!svn/ver/8/trunk/GSWebServicesSSO/src/com/generalseguros/db/SQLServerCommonDB.properties
+END
+CommonDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/skulldah/!svn/ver/52/trunk/GSWebServicesSSO/src/com/generalseguros/db/CommonDB.java
+END

@@ -1,0 +1,71 @@
+10
+
+dir
+54
+https://subversion.assembla.com/svn/skulldah/trunk/GSWebServicesSSO/WebContent/WEB-INF/services/GSSeguridadWS
+https://subversion.assembla.com/svn/skulldah
+
+
+
+2012-11-27T07:34:55.280105Z
+53
+moxi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+95e41a6d-d05d-4950-82cc-c06b91f35c2f
+
+GSSeguridadWS.aar
+file
+
+
+
+
+2013-01-21T08:04:07.099000Z
+5425413069e653a7007d6e0a847c1593
+2012-11-27T07:34:55.280105Z
+53
+moxi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+183672
+
+META-INF
+dir
+
+com
+dir
+
+test
+dir
+

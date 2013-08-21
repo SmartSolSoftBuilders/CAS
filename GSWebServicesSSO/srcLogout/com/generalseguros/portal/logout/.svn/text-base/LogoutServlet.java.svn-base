@@ -1,0 +1,58 @@
+package com.generalseguros.portal.logout;
+
+import java.io.IOException;
+import java.util.ResourceBundle;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+/**
+ * Servlet implementation class LogoutServlet
+ */
+@WebServlet("/LogoutServlet")
+public class LogoutServlet extends HttpServlet {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -7046090165930215214L;
+
+	/**
+	 * @see HttpServlet#HttpServlet()
+	 */
+	public LogoutServlet() {
+		super();
+	}
+	
+	private String caslogout;
+	
+	public void init( ServletConfig config) throws ServletException {
+		super.init(config);
+	    caslogout = config.getInitParameter("CASLogout");
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse
+	 *      response)
+	 */
+	protected void doGet(HttpServletRequest request,
+			HttpServletResponse response) throws ServletException, IOException {
+		HttpSession session = request.getSession();
+		session.invalidate();
+		session = request.getSession(false);
+		
+		if( caslogout == null){ // is isn't an init param, should get the value from init-param
+			caslogout = ResourceBundle.getBundle(
+					"com.sso.generalseguros.GSSSOWebServiceEndPointConfig")
+					.getString("CASLogout");
+		}
+
+		response.sendRedirect(caslogout);
+	}
+
+}

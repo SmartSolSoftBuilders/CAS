@@ -1,0 +1,13 @@
+cas.securityContext.serviceProperties.service=http://localhost:8080/cas-server-webapp-3.3.5/services/j_acegi_cas_security_check
+cas.securityContext.casProcessingFilterEntryPoint.loginUrl=http://localhost:8080/cas-server-webapp-3.3.5/login
+cas.securityContext.ticketValidator.casServerUrlPrefix=http://localhost:8080/cas-server-webapp-3.3.5/
+cas.securityContext.casProxyTicketValidator.casValidate=http\://localhost:8080//cas-server-webapp-3.3.5/proxyValidate
+
+cas.themeResolver.defaultThemeName=default
+cas.viewResolver.basename=default_views
+
+host.name=cas
+
+#database.hibernate.dialect=org.hibernate.dialect.OracleDialect
+#database.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+database.hibernate.dialect=org.hibernate.dialect.HSQLDialect

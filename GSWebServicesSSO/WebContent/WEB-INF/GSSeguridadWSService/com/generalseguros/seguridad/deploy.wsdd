@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Use this file to deploy some handlers/chains and services      --><!-- Two ways to do this:                                           --><!--   java org.apache.axis.client.AdminClient deploy.wsdd          --><!--      after the axis server is running                          --><!-- or                                                             --><!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   --><!--      from the same directory that the Axis engine runs         --><deployment xmlns="http://xml.apache.org/axis/wsdd/" xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from GSSeguridadWSService WSDL service -->
+
+  <service name="GSSeguridadWS" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://seguridad.generalseguros.com"/>
+      <parameter name="wsdlServiceElement" value="GSSeguridadWSService"/>
+      <parameter name="schemaQualified" value="http://dto.generalseguros.com,http://seguridad.generalseguros.com"/>
+      <parameter name="wsdlServicePort" value="GSSeguridadWS"/>
+      <parameter name="className" value="com.generalseguros.seguridad.GSSeguridadWS"/>
+      <parameter name="wsdlPortType" value="GSSeguridadWS"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://www.w3.org/2001/XMLSchema" name="obtenTipoUsuario" qname="operNS:obtenTipoUsuario" returnQName="retNS:obtenTipoUsuarioReturn" returnType="rtns:string" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:usuario" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://www.w3.org/2001/XMLSchema" name="obtenNombreUsuario" qname="operNS:obtenNombreUsuario" returnQName="retNS:obtenNombreUsuarioReturn" returnType="rtns:string" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:sessionId" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://dto.generalseguros.com" name="obtenPermisos" qname="operNS:obtenPermisos" returnQName="retNS:obtenPermisosReturn" returnType="rtns:Permisos" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreUsuario" type="tns:string"/>
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreSistema" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://www.w3.org/2001/XMLSchema" name="obtenPermisosJSON" qname="operNS:obtenPermisosJSON" returnQName="retNS:obtenPermisosJSONReturn" returnType="rtns:string" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreUsuario" type="tns:string"/>
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreSistema" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://www.w3.org/2001/XMLSchema" name="obtenPermisosHTML" qname="operNS:obtenPermisosHTML" returnQName="retNS:obtenPermisosHTMLReturn" returnType="rtns:string" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreUsuario" type="tns:string"/>
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreSistema" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://www.w3.org/2001/XMLSchema" name="obtenPermisosXML" qname="operNS:obtenPermisosXML" returnQName="retNS:obtenPermisosXMLReturn" returnType="rtns:string" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreUsuario" type="tns:string"/>
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://www.w3.org/2001/XMLSchema" qname="pns:nombreSistema" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://seguridad.generalseguros.com" xmlns:retNS="http://seguridad.generalseguros.com" xmlns:rtns="http://dto.generalseguros.com" name="generarContrasena" qname="operNS:generarContrasena" returnQName="retNS:generarContrasenaReturn" returnType="rtns:Usuario" soapAction="">
+        <parameter xmlns:pns="http://seguridad.generalseguros.com" xmlns:tns="http://dto.generalseguros.com" qname="pns:usuario" type="tns:Usuario"/>
+      </operation>
+      <parameter name="allowedMethods" value="obtenNombreUsuario obtenTipoUsuario obtenPermisosHTML generarContrasena obtenPermisosJSON obtenPermisosXML obtenPermisos"/>
+
+      <arrayMapping xmlns:ns="http://seguridad.generalseguros.com" xmlns:cmp-ns="http://dto.generalseguros.com" qname="ns:ArrayOf_tns1_Sistema" type="java:com.generalseguros.dto.Sistema[]" innerType="cmp-ns:Sistema" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://dto.generalseguros.com" qname="ns:Usuario" type="java:com.generalseguros.dto.Usuario" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <arrayMapping xmlns:ns="http://seguridad.generalseguros.com" xmlns:cmp-ns="http://dto.generalseguros.com" qname="ns:ArrayOf_tns1_Menu" type="java:com.generalseguros.dto.Menu[]" innerType="cmp-ns:Menu" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://dto.generalseguros.com" qname="ns:Sistema" type="java:com.generalseguros.dto.Sistema" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://dto.generalseguros.com" qname="ns:Permisos" type="java:com.generalseguros.dto.Permisos" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://dto.generalseguros.com" qname="ns:Menu" type="java:com.generalseguros.dto.Menu" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://dto.generalseguros.com" qname="ns:TipoUsuario" type="java:com.generalseguros.dto.TipoUsuario" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+  </service>
+</deployment>

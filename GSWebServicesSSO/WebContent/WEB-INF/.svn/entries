@@ -1,0 +1,117 @@
+10
+
+dir
+54
+https://subversion.assembla.com/svn/skulldah/trunk/GSWebServicesSSO/WebContent/WEB-INF
+https://subversion.assembla.com/svn/skulldah
+
+
+
+2012-12-02T05:53:31.976827Z
+54
+moxi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+95e41a6d-d05d-4950-82cc-c06b91f35c2f
+
+GSAutenticadorWSService
+dir
+
+GSSeguridadWSService
+dir
+
+classes
+dir
+
+conf
+dir
+
+lib
+dir
+
+modules
+dir
+
+runHSQLDB.bat
+file
+
+
+
+
+2013-01-21T08:04:26.307000Z
+dfb61518f927f24246424044e75cde05
+2012-12-02T05:53:31.976827Z
+54
+moxi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+104
+
+services
+dir
+
+web.xml
+file
+
+
+
+
+2013-01-21T08:04:26.867000Z
+bca5e1f1781acfc3872dfbda4587eddd
+2012-08-06T19:16:30.917256Z
+9
+moxi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2437
+

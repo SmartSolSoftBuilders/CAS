@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/skulldah/!svn/ver/42/trunk/TestGSWebServicesSSO
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/skulldah/!svn/ver/31/trunk/TestGSWebServicesSSO/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/skulldah/!svn/ver/13/trunk/TestGSWebServicesSSO/.classpath
+END

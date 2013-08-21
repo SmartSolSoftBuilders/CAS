@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/classes/org/apache/axis2/webapp
+END
+AdminAgent.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/classes/org/apache/axis2/webapp/AdminAgent.class
+END
+AxisAdminServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/skulldah/!svn/ver/11/trunk/cas-server-webapp-3.3.5/WebContent/WEB-INF/classes/org/apache/axis2/webapp/AxisAdminServlet.class
+END

@@ -1,0 +1,74 @@
+10
+
+dir
+54
+https://subversion.assembla.com/svn/skulldah/trunk/GSWebServicesSSO/WebContent
+https://subversion.assembla.com/svn/skulldah
+
+
+
+2012-12-02T05:53:31.976827Z
+54
+moxi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+95e41a6d-d05d-4950-82cc-c06b91f35c2f
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+axis2-web
+dir
+
+dbTest.jsp
+file
+
+
+
+
+2013-01-21T08:04:01.995000Z
+5a95a26bf937d3d3417938fd793015ef
+2012-08-06T19:16:30.917256Z
+9
+moxi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+472
+
+wsdl
+dir
+
